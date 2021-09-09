@@ -25,7 +25,7 @@ Currently, I work as Dell’s Senior Software Developer, improving products and 
 
 - Apart from coding enjoy listening to Music 🎵 and Travel ✈️
 
-- 📫 How to reach me l.ravi199@gmail.com
+- 📫 How to reach me L.ravi1992@gmail.com
 
 <!---
 Ravindra7/Ravindra7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
