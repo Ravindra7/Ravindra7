@@ -2,6 +2,8 @@
 It is 7 years and counting in Software Development. 🧑‍💻
 Currently, I work as Dell’s Senior Software Developer, improving products and services for our customers by using advanced technologies in disaster recovery solutions, onboarding new features ✈️
 
+[![Ravindra's GitHub stats](https://github-readme-stats.vercel.app/api?username=ravindra7)](https://github.com/anuraghazra/github-readme-stats)
+ 
 ✍️Technical competencies ✍️
 - 🎿 Programming languages
   - ↳ Java
